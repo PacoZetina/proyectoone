@@ -1,7 +1,11 @@
 body
 
 {
+<<<<<<< HEAD
     color:blue;
+=======
+    color: red;
+>>>>>>> cabezera
     text-align: center;
     font-family: "Arial";
     font-family: 16px;
